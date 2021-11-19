@@ -1,11 +1,10 @@
-<h1 align="center">
+<h2 align="center">
     <b><a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none;">Pandas 🐼</a></b>
     <br />
-    <span style="font-size: 30px;">
+    <span style="font-size: 15px !important;">
     	✨ A porta de entrada para o mundo de Data Science ✨
     </span>
-</h1>
-
+</h2>
 
 
 Pandas é uma biblioteca Python gratuita e de código aberto, que fornece ferramentas para analisar, manipular, agregar e plotar dados de maneira extremamente simples.
