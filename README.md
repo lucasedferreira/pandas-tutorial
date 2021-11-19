@@ -1,12 +1,10 @@
-<div align="center">
-    <b style="font-size: 45px;">
-        <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none;">Pandas 🐼</a>
-    </b>
+<h1 align="center">
+    <b><a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none;">Pandas 🐼</a></b>
     <br />
     <span style="font-size: 30px;">
     	✨ A porta de entrada para o mundo de Data Science ✨
     </span>
-</div>
+</h1>
 
 
 
@@ -26,7 +24,7 @@ Antes de mais nada, é importante que tenhamos entendido bem alguns conceitos fu
 
 No Pandas, Series é como uma coluna numa tabela. É um **array de uma dimensão** que pode conter **dados de qualquer tipo**.
 
-![Series](/home/iuk/projects/pandas-tutorial/assets/series-example.svg)
+![Series](assets/series-example.svg)
 
 
 
@@ -34,4 +32,4 @@ No Pandas, Series é como uma coluna numa tabela. É um **array de uma dimensão
 
 DataFrame é uma **estrutura de dados bidimensional** com colunas de tipos comumente diferentes. É como uma planilha do Excel ou uma tabela SQL.
 
-![DataFrame](/home/iuk/projects/pandas-tutorial/assets/dataframe-example.svg)
+![DataFrame](assets/dataframe-example.svg)
