@@ -32,3 +32,7 @@ No Pandas, Series é como uma coluna numa tabela. É um **array de uma dimensão
 DataFrame é uma **estrutura de dados bidimensional** com colunas de tipos comumente diferentes. É como uma planilha do Excel ou uma tabela SQL.
 
 ![DataFrame](assets/dataframe-example.svg)
+
+# Tutorial
+
+## [Como ler e escrever dados em uma tabela?](tutorial/1.py)
