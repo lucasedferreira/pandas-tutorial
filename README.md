@@ -36,3 +36,6 @@ DataFrame é uma **estrutura de dados bidimensional** com colunas de tipos comum
 # Tutorial
 
 ## [Como ler e escrever dados em uma tabela?](tutorial/1.md)
+
+## [Como combinar dados de múltiplas tabelas?](tutorial/combine-data-multiple-tables.md)
+
