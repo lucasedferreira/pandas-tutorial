@@ -56,6 +56,6 @@ pip install pandas
 # Tutorial
 
 ## [Como ler e escrever dados em uma tabela?](tutorial/1.md)
-
+## [Como selecionar um conjunto de dados de um DataFrame?](tutorial/2.md)
 ## [Como combinar dados de múltiplas tabelas?](tutorial/combine-data-multiple-tables.md)
 
