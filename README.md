@@ -33,6 +33,26 @@ DataFrame é uma **estrutura de dados bidimensional** com colunas de tipos comum
 
 ![DataFrame](assets/dataframe-example.svg)
 
+
+
+## Instalando
+
+O Pandas faz parte da distribuição Anaconda, então pode ser instalado pelo Anaconda ou Miniconda:
+
+```shell
+conda install pandas
+```
+
+Ou se preferir, pode ser instalado via pip:
+
+```shell
+pip install pandas
+```
+
+
+
+
+
 # Tutorial
 
 ## [Como ler e escrever dados em uma tabela?](tutorial/1.md)
